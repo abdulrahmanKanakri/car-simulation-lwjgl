@@ -1,0 +1,10 @@
+{
+  "engineTorque": "350",
+  "rollingFrictionForce": "0.35f",
+  "carMass": "1400",
+  "brakeCoefficient": "0.7f",
+  "roadDegree": "10",
+  "airResistanceX": "50",
+  "airResistanceY": "0",
+  "airResistanceZ": "-20"
+}
