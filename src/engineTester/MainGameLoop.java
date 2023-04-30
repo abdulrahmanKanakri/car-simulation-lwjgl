@@ -12,10 +12,10 @@ import models.TexturedModel;
 import org.lwjgl.opengl.Display;
 import org.lwjgl.util.vector.Vector3f;
 
-import phisics.AirResistanceForce;
-import phisics.BrakeForce;
-import phisics.EngineForce;
-import phisics.RollingFrictionForce;
+import physics.AirResistanceForce;
+import physics.BrakeForce;
+import physics.EngineForce;
+import physics.RollingFrictionForce;
 import renderEngine.DisplayManager;
 import renderEngine.Loader;
 import renderEngine.MasterRenderer;
